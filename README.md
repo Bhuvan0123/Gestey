@@ -1,8 +1,5 @@
 # 🤖 Gestey - Gesture Controlled Robotic Arm
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Robot_arm_icon.svg" alt="Gestey Logo" width="120"/>
-</p>
 
 ## 🧠 Overview
 
@@ -66,9 +63,6 @@ python gestey.py
 A webcam window will open — control the robotic arm in real-time using your hand gestures.
 Press **'q'** to exit.
 
-## 📹 Demo
-
-🎥 Coming soon: A real-time demo of Gestey in action.
 
 ## 🌟 Future Enhancements
 
